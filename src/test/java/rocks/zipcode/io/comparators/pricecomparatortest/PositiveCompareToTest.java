@@ -14,7 +14,7 @@ public class PositiveCompareToTest {
     @Test
     public void test1() {
         // given
-        Comparator<Item> priceComparator = (Comparator<Item>)new PriceComparator();
+        Comparator<Item> priceComparator = (Comparator<Item>) new PriceComparator();
         Item item1 = new Item(null, null, 0.0);
         Item item2 = new Item(null, null, 1.0);
 
