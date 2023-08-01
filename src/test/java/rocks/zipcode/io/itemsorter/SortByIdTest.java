@@ -5,7 +5,7 @@ import org.junit.Test;
 import rocks.zipcode.io.Item;
 import rocks.zipcode.io.ItemSorter;
 import rocks.zipcode.io.comparators.IdComparator;
-import rocks.zipcode.io.comparators.IdComparator;
+
 
 import java.util.Comparator;
 
